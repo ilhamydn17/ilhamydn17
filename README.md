@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I am a backend development enthusiast who is always looking for new challenges. I love tinkering with code and creating efficient solutions.<br><br>- 🏫 I’m study at State Polytechnic of Malang<br>- 📚 I'm currently learning about backend development and other<br>- 🍃 Enjoy life in peace</p>
+<p align="left">I am a backend development enthusiast and love to discovering something new. I love tinkering with code and creating efficient solutions.<br><br>- 🏫 I’m study at State Polytechnic of Malang<br>- 📚 I'm currently learning about backend development and other<br>- 🍃 Enjoy life in peace</p>
 
 ###
 
